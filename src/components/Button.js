@@ -15,7 +15,7 @@ class Button extends Component {
                         type="button"
                         onClick={changeTheme}
                     >
-                        Change theme
+                        change theme
                     </button>)}
             </ThemeContext.Consumer>
         );
